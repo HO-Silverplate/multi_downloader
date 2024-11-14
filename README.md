@@ -1,5 +1,7 @@
 # multi_downloader
 ===================
+
+[![Github release](https://img.shields.io/github/v/release/HO-Silverplate/multi_downloader.svg?logo=github)](https://github.com/HO-Silverplate/multi_downloader/releases/latest)
    
 SOOP 스트리머들을 자동으로 체크하고 실시간 녹화하는 간단한 프로그램입니다.
 - 스트리밍을 실시간으로 녹화해보세요.
