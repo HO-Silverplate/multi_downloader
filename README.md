@@ -1,14 +1,19 @@
-# multi_downloader ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)
+# multi_downloader <br> ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)
+   
 
 
 <div>
-
-   ![Github download](https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/total.svg?logo=github)
-   ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/latest/total?label=latest)
-   ![GitHub Release](https://img.shields.io/github/v/release/HO-silverplate/multi_downloader)
-
+   <a href="https://github.com/HO-Silverplate/multi_downloader/releases">
+      <img alt ="Downloads" src = "https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/total?downloads">
+   </a>
+   <a href="https://github.com/HO-Silverplate/multi_downloader/releases/latest">
+      <img alt="Downloads(latest)" src="https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/latest/total?label=latest">
+   </a>
+   <a href="https://github.com/HO-Silverplate/multi_downloader/releases/latest">
+      <img alt="GitHub Release" src="https://img.shields.io/github/v/release/HO-silverplate/multi_downloader">
+   </a>
 </div>
-
+<br>
 <div>
       
    SOOP 스트리머들을 자동으로 체크하고 실시간 녹화하는 간단한 프로그램입니다.
