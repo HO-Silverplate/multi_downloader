@@ -1,4 +1,14 @@
-## 2024/11/25 - [v0.2.4 beta](https://github.com/HO-silverplate/multi_downloader/releases/tag/v0.2.4-beta)
+## [LATEST] 2024/12/08 - [v0.2.5 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.5-beta)
+
+### BUGFIX
+
+* `CONFIG` | 기본 컨픽의 기본 출력 경로가 잘못 기입되어 바로 출력할 수 없던 문제 [#19](https://github.com/HO-Silverplate/multi_downloader/issues/19)
+
+* `APP` | 탭바 위에서 스크롤하면 필수 설정을 완료하지 않아도 다른 탭으로 이동할 수 있던 문제 [#2](https://github.com/HO-Silverplate/multi_downloader/issues/2)
+
+> *햇반, 계란말이, 고추장아찌, 깍두기, 깻잎지*
+
+## 2024/11/25 - [v0.2.4 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.4-beta)
 
 ### BUGFIX
 
@@ -13,7 +23,7 @@
 
 > *육개장 큰컵, 수제 샌드위치, 유부초밥, 오븐스파게티, 코카콜라 뚱캔, 제육볶음*
 
-## 2024/11/21 - [v0.2.3 beta](https://github.com/HO-silverplate/multi_downloader/releases/tag/v0.2.3-beta)
+## 2024/11/21 - [v0.2.3 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.3-beta)
 
 ### BUGFIX
 
