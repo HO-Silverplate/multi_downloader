@@ -1,4 +1,39 @@
-## [LATEST] 2024/12/08 - [v0.2.5 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.5-beta)
+## [LATEST] 2024/12/22 - [v0.2.6 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6-beta)
+
+### NOTE
+
+1. 오류 처리를 개선했습니다. 이제 스트림 종료를 더 일관적으로 처리합니다.
+2. 리먹스 스레드를 수정했습니다. 이제 작업 중단을 요청하면 진행중이던 작업 파일을 덮어쓰지 않고 제거합니다.
+3. 리먹스가 진행중임을 확인할 수 있도록 버튼 상태를 변경하도록 개선하였습니다.
+
+4. 더욱 편리한 사용을 위해 "시스템 트레이로 최소화"와 "부팅 시 자동 시작" 옵션을 추가했습니다.
+    * 시스템 트레이로 최소화:  
+        활성화하면 창을 닫을 때 종료되는 대신 시스템 트레이로 최소화됩니다.  
+        시스템 트레이 아이콘을 더블클릭하면 프로그램 윈도우를 다시 표시하고, 우클릭하여 완전히 종료할 수 있습니다.  
+
+        아이콘에 표시되는 숫자를 통해 현재 몇 명의 방송을 녹화 중인지 간편하게 확인할 수 있습니다. 8명 이상은 "+"로 표시됩니다.
+
+    * 부팅 시 자동 시작:  
+        활성화하면 윈도우의 시작 프로그램에 다중녹화기를 등록합니다.  
+        시작 프로그램에 등록된 후에는 컴퓨터를 부팅할 때마다 자동으로 다중녹화기를 실행합니다.
+5. 모든 스트리머들의 녹화 여부를 일괄적으로 체크할 수 있는 버튼을 추가했습니다. 
+
+### BUGFIX
+
+* `DOWNLOAD` | 오류가 발생했을 때 스트림이 제대로 종료되지 않던 문제 [#25](https://github.com/HO-Silverplate/multi_downloader/issues/25)
+* `REMUX` | 리먹스를 중간에 중단하면 FFmpeg가 강제로 종료되어 파일이 깨지던 문제 [#24](https://github.com/HO-Silverplate/multi_downloader/issues/24)
+
+### FEATURE
+
+* `DOWNLOAD` | "전체 체크" 버튼 추가
+* `OPTION` | "시스템 트레이로 최소화" 옵션 및 시스템 트레이 아이콘 추가 [#20](https://github.com/HO-Silverplate/multi_downloader/issues/20)
+* `OPTION` | "부팅 시 자동 시작" 옵션 추가 [#20](https://github.com/HO-Silverplate/multi_downloader/issues/20)
+* `REMUX` | 리먹스 실행 상태에 따라 버튼의 상태 변경 [#22](https://github.com/HO-Silverplate/multi_downloader/issues/22) 
+
+
+> *초콜릿 청크 쿠키, 테라 큰캔, 기린 이치방 시보리 작은캔, 칙촉, 참쌀선과, 박카스 디카페, 에이스 씬에스프레소, 일드프랑스 미니브리치즈*
+
+## 2024/12/08 - [v0.2.5 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.5-beta)
 
 ### BUGFIX
 
@@ -79,7 +114,7 @@
 
 ### BUGFIX
 
-* `OPTION` | 파일 접근 권한 부족으로 FFmpeg를 인식하지 못하던 문제 [6](https://github.com/HO-Silverplate/multi_downloader/issues/6)
+* `OPTION` | 파일 접근 권한 부족으로 FFmpeg를 인식하지 못하던 문제 [#6](https://github.com/HO-Silverplate/multi_downloader/issues/6)
 
 >*참치마요 김밥, 아이스티*
 
