@@ -1,4 +1,4 @@
-## [LATEST] 2024/12/22 - [v0.2.6 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6-beta)
+## [LATEST] 2024/12/22 - [v0.2.6b beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6b-beta)
 
 ### NOTE
 
