@@ -1,4 +1,4 @@
-## [LATEST] 2024/12/22 - [v0.2.6b beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6b-beta)
+## [LATEST] 2024/12/22 - [v0.2.6d/e beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6d%2Fe-beta)
 
 ### NOTE
 
@@ -17,6 +17,10 @@
         활성화하면 윈도우의 시작 프로그램에 다중녹화기를 등록합니다.  
         시작 프로그램에 등록된 후에는 컴퓨터를 부팅할 때마다 자동으로 다중녹화기를 실행합니다.
 5. 모든 스트리머들의 녹화 여부를 일괄적으로 체크할 수 있는 버튼을 추가했습니다. 
+
+* 0.2.6 -> 0.2.6b : 부팅 시 자동 시작될 경우 영상의 저장 위치가 임시 폴더로 지정되는 문제를 고쳤습니다.
+* 0.2.6b -> 0.2.6c : 파일 이름 길이의 제한을 늘렸습니다.Q
+* 0.2.6 -> 0.2.6d/e : 빌드의 VLC 누락 문제를 해결했습니다. (d: 빌드에 VLC 플러그인 포함, e: VLC 의존성 제거)
 
 ### BUGFIX
 
