@@ -1,4 +1,4 @@
-## [LATEST] 2024/12/22 - [v0.2.6f beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6f-beta)
+## [LATEST] 2024/12/22 - [v0.2.6g beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6g-beta)
 
 ### NOTE
 
@@ -22,6 +22,7 @@
 * 0.2.6b -> 0.2.6c : 파일 이름 길이의 제한을 늘렸습니다.
 * 0.2.6 -> 0.2.6d/e : 빌드의 VLC 누락 문제를 해결했습니다. (d: 빌드에 VLC 플러그인 포함, e: VLC 의존성 제거)
 * 0.2.6 -> 0.2.6f : 설정 적용 이후 녹화가 시작되지 않는 문제를 수정했습니다.
+* 0.2.6 -> 0.2.6g : 저장 경로 설정이 항상 초기화되는 문제를 수정했습니다.
 
 ### BUGFIX
 
