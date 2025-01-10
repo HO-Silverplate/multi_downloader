@@ -1,4 +1,20 @@
-## [LATEST] 2024/12/22 - [v0.2.6g beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6g-beta)
+## [LATEST] 2025/01/10 - [v0.3.0 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.0-beta)
+
+### NOTE
+
+1. SOOP VOD와 다시보기를 검색 및 다운로드할 수 있는 VOD탭을 추가했습니다.
+3. 이제 2차 비밀번호 로그인이 가능해졌습니다.
+2. 설정의 스트리머 목록에서 스트리머 닉네임을 같이 표출하도록 변경했습니다.
+
+### FEATURE
+
+* `VOD` | VOD 다운로더 탭 추가
+* `OPTION` | 2차 비밀번호 로그인 추가
+* `OPTION` | 스트리머 목록 관리에서 스트리머 닉네임 확인 가능
+
+> *삼시세끼 잘 챙겨먹음*
+
+## 2024/12/22 - [v0.2.6g beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6g-beta)
 
 ### NOTE
 
