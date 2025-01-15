@@ -1,4 +1,22 @@
-## [LATEST] 2025/01/10 - [v0.3.0 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.0-beta)
+## [LATEST] 2025/01/15 - [v0.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.1)
+
+### NOTE
+
+1. 대시보드에서 스트리머 상태를 갱신 중일 때 프로그램이 잠시 멈추는 문제를 해결했습니다.
+2. 설정에서 저장 버튼을 일일히 누를 필요 없이 자동저장되도록 변경하였습니다.
+3. 설정을 초기값으로 되돌릴 수 있는 버튼을 추가했습니다.
+
+### FEATURE
+* `OPTION` | 설정이 자동저장되도록 변경(저장 시점: 옵션 탭으로부터 이동/앱 종료)
+
+### BUGFIX
+* `DASHBOARD` | 스트리머 체크가 동기식으로 진행되어 UI스레드를 멈추는 문제 [#26](https://github.com/HO-Silverplate/multi_downloader/issues/26)
+* `OPTION`| 스트리머 목록 관리 메뉴에서 삭제된 스트리머가 이미 등록되었다고 표시되는 문제
+* `APP` | 경고 다이얼로그의 메뉴힌트가 제대로 표시되지 않는 문제 [#1](https://github.com/HO-Silverplate/multi_downloader/issues/1)
+
+> *박카스 디카페, 펩시제로 제로카페인 라임맛, 두찜 까만찜닭*
+
+## 2025/01/10 - [v0.3.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.0)
 
 ### NOTE
 
@@ -8,7 +26,7 @@
 
 ### FEATURE
 
-* `VOD` | VOD 다운로더 탭 추가
+* `VOD` | VOD 다운로더 탭 추가 [#21](https://github.com/HO-Silverplate/multi_downloader/issues/21)
 * `OPTION` | 2차 비밀번호 로그인 추가
 * `OPTION` | 스트리머 목록 관리에서 스트리머 닉네임 확인 가능
 
