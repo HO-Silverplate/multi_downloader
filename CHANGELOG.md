@@ -1,3 +1,16 @@
+## [LATEST] 2025/01/28 - [v0.3.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.2)
+
+### NOTE
+
+1. 시스템 트레이로 최소화한 이후 프로그램이 더 이상 체크를 하지 않는 문제를 해결했습니다.
+2. 이제 설정창에서 닫기 버튼을 눌러 시스템 트레이로 최소화하면 자동으로 변경된 설정을 저장하고 대쉬보드 탭으로 이동합니다.
+
+### BUGFIX
+
+* `APP` | 설정 탭에서 다른 탭으로 이동할 때 프로그램이 체크를 멈추는 문제
+
+> *눈칫밥*
+
 ## [LATEST] 2025/01/15 - [v0.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.1)
 
 ### NOTE
@@ -7,9 +20,11 @@
 3. 설정을 초기값으로 되돌릴 수 있는 버튼을 추가했습니다.
 
 ### FEATURE
+
 * `OPTION` | 설정이 자동저장되도록 변경(저장 시점: 옵션 탭으로부터 이동/앱 종료)
 
 ### BUGFIX
+
 * `DASHBOARD` | 스트리머 체크가 동기식으로 진행되어 UI스레드를 멈추는 문제 [#26](https://github.com/HO-Silverplate/multi_downloader/issues/26)
 * `OPTION`| 스트리머 목록 관리 메뉴에서 삭제된 스트리머가 이미 등록되었다고 표시되는 문제
 * `APP` | 경고 다이얼로그의 메뉴힌트가 제대로 표시되지 않는 문제 [#1](https://github.com/HO-Silverplate/multi_downloader/issues/1)
@@ -50,7 +65,7 @@
     * 부팅 시 자동 시작:  
         활성화하면 윈도우의 시작 프로그램에 다중녹화기를 등록합니다.  
         시작 프로그램에 등록된 후에는 컴퓨터를 부팅할 때마다 자동으로 다중녹화기를 실행합니다.
-5. 모든 스트리머들의 녹화 여부를 일괄적으로 체크할 수 있는 버튼을 추가했습니다. 
+5. 모든 스트리머들의 녹화 여부를 일괄적으로 체크할 수 있는 버튼을 추가했습니다.
 
 * 0.2.6 -> 0.2.6b : 부팅 시 자동 시작될 경우 영상의 저장 위치가 임시 폴더로 지정되는 문제를 고쳤습니다.
 * 0.2.6b -> 0.2.6c : 파일 이름 길이의 제한을 늘렸습니다.
@@ -68,8 +83,7 @@
 * `DOWNLOAD` | "전체 체크" 버튼 추가
 * `OPTION` | "시스템 트레이로 최소화" 옵션 및 시스템 트레이 아이콘 추가 [#20](https://github.com/HO-Silverplate/multi_downloader/issues/20)
 * `OPTION` | "부팅 시 자동 시작" 옵션 추가 [#20](https://github.com/HO-Silverplate/multi_downloader/issues/20)
-* `REMUX` | 리먹스 실행 상태에 따라 버튼의 상태 변경 [#22](https://github.com/HO-Silverplate/multi_downloader/issues/22) 
-
+* `REMUX` | 리먹스 실행 상태에 따라 버튼의 상태 변경 [#22](https://github.com/HO-Silverplate/multi_downloader/issues/22)
 
 > *초콜릿 청크 쿠키, 테라 큰캔, 기린 이치방 시보리 작은캔, 칙촉, 참쌀선과, 박카스 디카페, 에이스 씬에스프레소, 일드프랑스 미니브리치즈*
 
@@ -91,7 +105,6 @@
 
 ### FEATURE
 
-
 * `OPTION` | 이제 계정 정보를 SOOP 로그인에 이용하고, 컨픽에는 기록하지 않음.
 * `AUTH` | 이제 단일 세션으로 모든 작업을 실행.
 * `AUTH` | 이제 세션의 쿠키 정보를 데이터 폴더에 저장합니다.
@@ -111,6 +124,7 @@
 ## 2024/11/19 - [v0.2.2 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.2-beta)
 
 ### FEATURE
+
 * `OPTION` | 자동 REMUX 옵션 추가
 
 >
@@ -118,9 +132,11 @@
 ## 2024/11/17 - [v0.2.1 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.1-beta)
 
 ### BUGFIX
+
 * `AUTH` | 자동 로그인이 체크되어 있어도 로그인하지 않는 문제 [#9](https://github.com/HO-Silverplate/multi_downloader/issues/9)
 
 ### FEATURE
+
 * `REMUX` | 출력된 영상의 메타데이터를 정리하고 컨테이너를 변경하는 REMUXER 탭 추가
 
 >*후랑크, 아이스티, 도미노피자*
@@ -128,6 +144,7 @@
 ## 2024/11/17 - [v0.2.0 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.0-beta)
 
 ### FEATURE
+
 * `REMUX` | 영상 종료 시 자동으로 메타데이터 정리 [#3](https://github.com/HO-Silverplate/multi_downloader/issues/3)
 
 > *햇반, 갓김치, 불고기, 토마토카레참치, 컵커피, 싸이버거세트, 프레첼, 감자칩*  
