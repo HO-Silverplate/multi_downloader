@@ -1,4 +1,15 @@
-## [LATEST] 2025/01/28 - [v0.3.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.2)
+## [LATEST] 2025/03/13 - [v0.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3)
+
+### NOTE
+
+1. 설정 변경사항이 UI에 정상적으로 반영되지 않는 문제를 해결했습니다.
+2. 불필요한 리소스를 정리했습니다. 
+
+### BUGFIX
+
+* `OPTION` | .ts형식 출력 옵션, 에러 시 자동 중단 설정값이 UI에 미반영되는 문제
+
+## 2025/01/28 - [v0.3.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.2)
 
 ### NOTE
 
@@ -11,7 +22,7 @@
 
 > *눈칫밥*
 
-## [LATEST] 2025/01/15 - [v0.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.1)
+## 2025/01/15 - [v0.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.1)
 
 ### NOTE
 
