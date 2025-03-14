@@ -1,4 +1,14 @@
-## [LATEST] 2025/03/13 - [v0.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3)
+## [LATEST] 2025/03/15 - [v0.3.3b](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3b)
+
+### NOTE
+
+1. 스트리머 방송 상태 정보를 잘못 인식하는 문제를 해결했습니다. (v0.3.3만 해당, 이전 버전은 해당 없음)
+
+### BUGFIX
+
+*``DASHBOARD` | 조건문 오기로 인한 방송 녹화 불가 문제
+
+## 2025/03/13 - [v0.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3)
 
 ### NOTE
 
