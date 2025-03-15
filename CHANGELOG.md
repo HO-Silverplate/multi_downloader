@@ -1,4 +1,14 @@
-## [LATEST] 2025/03/15 - [v0.3.3b](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3b)
+## [LATEST] 2025/03/15 - [v0.3.4](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.4)
+
+### NOTE 
+
+1. 방송 상태 체크 쓰레드가 제대로 활성화되지 않는 문제를 해결했습니다.
+
+### BUGFIX
+* `DASHBOARD` | v0.3.2의 변경점 미반영된 것으로 확인됨, Merge하여 해결.
+* `APP` | 로그 방식 변경, 불필요한 로그 메시지 제거
+
+## 2025/03/15 - [v0.3.3b](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3b)
 
 ### NOTE
 
@@ -6,7 +16,7 @@
 
 ### BUGFIX
 
-*``DASHBOARD` | 조건문 오기로 인한 방송 녹화 불가 문제
+* `DASHBOARD` | 조건문 오기로 인한 방송 녹화 불가 문제
 
 ## 2025/03/13 - [v0.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3)
 
