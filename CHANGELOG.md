@@ -1,10 +1,20 @@
-## [LATEST] 2025/03/26 - [v0.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.5)
+## [LATEST] 2025/05/01 - [v0.3.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.6)
+
+### NOTE
+
+1. 설정 파일에 문제가 발생할 시 설정을 초기화합니다.
+
+### BUGFIX
+
+* `CONFIG` | 최초 실행 시 컨픽에 문제가 발생하면 제거 후 다시 덤프하도록 처리
+
+## 2025/03/26 - [v0.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.5)
 
 ### NOTE 
 
 1. 방송 상태 체크 쓰레드가 제대로 갱신되지 않는 문제를 해결했습니다.
 2. VOD 검색 시에 인덱스가 갱신되지 않고 누적되는 문제를 해결했습니다.
-   
+
 ### BUGFIX
 
 * `DASHBOARD` | 체크 쓰레드의 생성 순서를 변경하여 설정 미반영 문제 해결
