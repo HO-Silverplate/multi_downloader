@@ -1,4 +1,20 @@
-## [LATEST] 2025/05/01 - [v0.3.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.6)
+## [LATEST] 2025/05/04 - [v0.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.6)
+
+### NOTE
+
+1. 이제 스트리머별로 선호 녹화 화질을 지정할 수 있습니다. 녹화가 시작된 이후에는 변경할 수 없으니 신중히 지정하세요.
+2. 로그인이 필요한 스트림을 지속적으로 녹화하려 시도하던 오류를 해결했습니다.
+
+### FEATURE
+
+* `OPTION` | 스트리머 목록 관리에서 스트림 화질 지정 기능 추가
+* `DASHBOARD` | 방송 상태 라벨에 녹화 중인 화질 표시
+
+### BUGFIX
+
+* `DASHBOARD` | 상태 코드 -6 처리 누락 확인 및 추가
+
+## 2025/05/01 - [v0.3.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.6)
 
 ### NOTE
 
