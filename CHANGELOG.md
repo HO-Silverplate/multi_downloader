@@ -1,4 +1,4 @@
-## [LATEST] 2025/05/04 - [v0.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.6)
+## [LATEST] 2025/05/04 - [v0.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.7)
 
 ### NOTE
 
@@ -24,7 +24,7 @@
 
 * `CONFIG` | 최초 실행 시 컨픽에 문제가 발생하면 제거 후 다시 덤프하도록 처리
 
-## 2025/03/26 - [v0.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.5)
+## [STABLE] 2025/03/26 - [v0.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.5)
 
 ### NOTE 
 
