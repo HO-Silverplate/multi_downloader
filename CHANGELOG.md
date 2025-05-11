@@ -1,4 +1,32 @@
-## [LATEST] 2025/05/04 - [v0.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.7)
+## [LATEST] 2025/05/11 - [v1.0.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.0.0)
+
+### NOTE
+
+1. 이제 녹화 중에도 설정을 변경할 수 있습니다.
+   - 녹화 중인 스트리머를 삭제할 수는 없으며, 녹화 중에 선호 화질을 변경하면 다음 녹화부터 적용됩니다.
+   - 파일 출력 옵션과 각종 타임아웃 값 변경 또한 이미 시작된 녹화에는 영향을 미치지 않습니다.
+2. 이제 스트리머별로 하위 폴더를 생성하도록 설정할 수 있습니다. 설정할 경우 각 스트리머의 녹화본은 해당 스트리머의 폴더에만 저장됩니다.
+3. 목록 관리에서 스트리머의 순서를 변경할 수 있습니다.
+4. 대시보드에서 방송의 썸네일을 확인할 수 있습니다.
+5. 자동 업데이트 기능을 추가했습니다. 업데이트 알림은 비활성화할 수 있지만, "긴급 업데이트"는 항상 알림을 띄웁니다.
+6. 비밀번호가 설정된 방송이 일반 방송중 상태로 인식되는 문제를 해결했습니다.
+   - 비밀번호가 설정된 방송 녹화는 아직 지원하지 않고 있습니다.
+
+### FEATURE
+
+* `OPTION` | 설정 탭 진입 제한 해제
+* `OPTION` | 스트리머 위젯 순서 변경 기능 추가
+* `OPTION` | 스트리머별 폴더 생성 기능 추가
+* `DASHBOARD` | 썸네일 추가
+* `APP` | 자동 업데이터 추가
+
+### BUGFIX
+
+* `DASHBOARD` | 비밀번호 설정 방송 코드 부여(-100)
+
+---
+
+## 2025/05/04 - [v0.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.7)
 
 ### NOTE
 
@@ -14,6 +42,8 @@
 
 * `DASHBOARD` | 상태 코드 -6 처리 누락 확인 및 추가
 
+---
+
 ## 2025/05/01 - [v0.3.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.6)
 
 ### NOTE
@@ -23,6 +53,8 @@
 ### BUGFIX
 
 * `CONFIG` | 최초 실행 시 컨픽에 문제가 발생하면 제거 후 다시 덤프하도록 처리
+
+---
 
 ## [STABLE] 2025/03/26 - [v0.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.5)
 
@@ -36,6 +68,9 @@
 * `DASHBOARD` | 체크 쓰레드의 생성 순서를 변경하여 설정 미반영 문제 해결
 * `VOD` | VOD 인덱스 갱신 반영
 
+
+---
+
 ## [LATEST] 2025/03/15 - [v0.3.4](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.4)
 
 ### NOTE 
@@ -45,6 +80,8 @@
 ### BUGFIX
 * `DASHBOARD` | v0.3.2의 변경점 미반영된 것으로 확인됨, Merge하여 해결.
 * `APP` | 로그 방식 변경, 불필요한 로그 메시지 제거
+
+---
 
 ## 2025/03/15 - [v0.3.3b](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3b)
 
@@ -56,6 +93,8 @@
 
 * `DASHBOARD` | 조건문 오기로 인한 방송 녹화 불가 문제
 
+---
+
 ## 2025/03/13 - [v0.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.3)
 
 ### NOTE
@@ -66,6 +105,8 @@
 ### BUGFIX
 
 * `OPTION` | .ts형식 출력 옵션, 에러 시 자동 중단 설정값이 UI에 미반영되는 문제
+
+---
 
 ## 2025/01/28 - [v0.3.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.2)
 
@@ -79,6 +120,8 @@
 * `APP` | 설정 탭에서 다른 탭으로 이동할 때 프로그램이 체크를 멈추는 문제
 
 > *눈칫밥*
+
+---
 
 ## 2025/01/15 - [v0.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.1)
 
@@ -100,6 +143,8 @@
 
 > *박카스 디카페, 펩시제로 제로카페인 라임맛, 두찜 까만찜닭*
 
+---
+
 ## 2025/01/10 - [v0.3.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.3.0)
 
 ### NOTE
@@ -115,6 +160,8 @@
 * `OPTION` | 스트리머 목록 관리에서 스트리머 닉네임 확인 가능
 
 > *삼시세끼 잘 챙겨먹음*
+
+---
 
 ## 2024/12/22 - [v0.2.6g beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.6g-beta)
 
@@ -156,6 +203,8 @@
 
 > *초콜릿 청크 쿠키, 테라 큰캔, 기린 이치방 시보리 작은캔, 칙촉, 참쌀선과, 박카스 디카페, 에이스 씬에스프레소, 일드프랑스 미니브리치즈*
 
+---
+
 ## 2024/12/08 - [v0.2.5 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.5-beta)
 
 ### BUGFIX
@@ -165,6 +214,8 @@
 * `APP` | 탭바 위에서 스크롤하면 필수 설정을 완료하지 않아도 다른 탭으로 이동할 수 있던 문제 [#2](https://github.com/HO-Silverplate/multi_downloader/issues/2)
 
 > *햇반, 계란말이, 고추장아찌, 깍두기, 깻잎지*
+
+---
 
 ## 2024/11/25 - [v0.2.4 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.4-beta)
 
@@ -180,6 +231,8 @@
 
 > *육개장 큰컵, 수제 샌드위치, 유부초밥, 오븐스파게티, 코카콜라 뚱캔, 제육볶음*
 
+---
+
 ## 2024/11/21 - [v0.2.3 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.3-beta)
 
 ### BUGFIX
@@ -190,13 +243,15 @@
 
 > *신라면(봉), 멸균우유*
 
+---
+
 ## 2024/11/19 - [v0.2.2 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.2-beta)
 
 ### FEATURE
 
 * `OPTION` | 자동 REMUX 옵션 추가
 
->
+---
 
 ## 2024/11/17 - [v0.2.1 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.1-beta)
 
@@ -210,6 +265,8 @@
 
 >*후랑크, 아이스티, 도미노피자*
 
+---
+
 ## 2024/11/17 - [v0.2.0 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.2.0-beta)
 
 ### FEATURE
@@ -219,6 +276,8 @@
 > *햇반, 갓김치, 불고기, 토마토카레참치, 컵커피, 싸이버거세트, 프레첼, 감자칩*  
 *핫식스 더 킹, 테라(작은캔), 편의점 닭강정, 훈제란*  
 
+---
+
 ## 2024/11/16 - [v0.1.1 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.1.1-beta)
 
 ### FEATURE
@@ -226,6 +285,8 @@
 * `OPTION` | 파일명 형식 커스터마이징 옵션 추가 [#8](https://github.com/HO-Silverplate/multi_downloader/issues/8)
 
 > *조기구이, 소고기뭇국*
+
+---
 
 ## 2024/11/15 - [v0.1.0 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.1.0-beta)
 
@@ -236,6 +297,8 @@
 
 >*홈런볼*
 
+---
+
 ## 2024/11/15 - [v0.0.2 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.0.2-beta)
 
 ### BUGFIX
@@ -243,6 +306,8 @@
 * `OPTION` | 파일 접근 권한 부족으로 FFmpeg를 인식하지 못하던 문제 [#6](https://github.com/HO-Silverplate/multi_downloader/issues/6)
 
 >*참치마요 김밥, 아이스티*
+
+---
 
 ## 2024/11/14 - [v0.0.1 beta](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v0.1.1-beta)
 

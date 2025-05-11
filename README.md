@@ -1,4 +1,6 @@
-# multi_downloader </br> ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)
+# multi_downloader 
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)
 
 ![Downloads](https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/total?label=Downloads&link=https://github.com/HO-Silverplate/multi_downloader/releases)
 ![Downloads(latest)](https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/latest/total?label=latest&link=https://github.com/HO-Silverplate/multi_downloader/releases/latest)
