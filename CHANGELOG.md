@@ -1,4 +1,22 @@
-## [LATEST] 2025/05/11 - [v1.0.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.0.0)
+## [LATEST] 2025/05/28 - [v1.0.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.0.1)
+
+### NOTE
+
+1. 브라우저의 쿠키를 이용해 로그인할 수 있습니다.
+   - 현재 크롬과 엣지 브라우저에서 쿠키를 가져올 수 없는 버그가 존재하여 임시로 비활성화하였습니다. 크롬 사용자께서는 도움말을 참고하여 사용해 주시기 바랍니다.
+   - 엣지 브라우저의 경우, 보안상 안전하다고 판별된 쿠키 추출 확장 프로그램이 없어 사용하지 않으시는 것을 추천드립니다.
+   - 쿠키를 추출할 때 **본 프로그램이 아닌** 해당 **브라우저**에서 '로그인 상태 유지'가 체크된 상태로 SOOP에 로그인되어 있어야 합니다.
+   '로그인 상태 유지'를 체크하지 않고 로그인할 경우, 녹화 시 비로그인 상태로 인식될 수 있습니다. 
+
+### FEATURE
+
+* `OPTION` | 브라우저 쿠키로 로그인 기능 추가 [#31](https://github.com/HO-Silverplate/multi_downloader/issues/31)
+
+### BUGFIX
+
+* `DASHBOARD` | 로그인/로그아웃 이후에도 세션이 갱신되지 않아 변화가 반영되지 않는 문제 
+
+## 2025/05/11 - [v1.0.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.0.0)
 
 ### NOTE
 
