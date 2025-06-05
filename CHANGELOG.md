@@ -1,4 +1,19 @@
-## [LATEST] 2025/05/28 - [v1.0.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.0.1)
+## [LATEST] 2025/06/05 - [v1.1.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.0)
+
+### NOTE
+
+1. SOOP의 변경된 VOD 로직에 대응하였습니다.
+   - 현재 VOD 다운로더의 진행 바 부분 등은 재작업 중입니다. 진행상황이 보이지 않아도 정상적으로 다운로드 중이오니 기다려 주시면 감사하겠습니다.
+   - 다운로드중 여부는 작업관리자를 통해 간접적으로 확인하실 수도 있습니다.
+   - 만약 추후 SOOP이 VOD 로직을 롤백한다면 이전 버전을 사용해 주세요.
+2. VOD 다운로더의 일부 오류를 고쳤습니다.
+
+### FEATURE
+
+* `VOD` | SOOP 로직 변경 대응
+* `UPDATER` | 타임아웃 연장
+
+## 2025/05/28 - [v1.0.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.0.1)
 
 ### NOTE
 
