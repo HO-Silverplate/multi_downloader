@@ -1,4 +1,16 @@
-## [LATEST] 2025/06/05 - [v1.1.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.0)
+## [LATEST] 2025/06/06 - [v1.1.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.1)
+
+### NOTE
+
+1. VOD 다운로더의 중단 로직의 버그를 수정하였습니다.
+2. VOD 검색 기능의 필터링이 작동하지 않는 문제를 수정하였습니다.
+
+### BUGFIX
+
+* `VOD` | VOD 다운로드 중 FFmpeg 프로세스가 종료되지 않는 문제
+* `VOD` | VOD 검색 필터가 적용되지 않는 문제
+
+## 2025/06/05 - [v1.1.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.0)
 
 ### NOTE
 
