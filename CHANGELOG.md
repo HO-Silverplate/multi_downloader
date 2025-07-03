@@ -1,4 +1,14 @@
-## [LATEST] 2025/06/06 - [v1.1.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.1)
+## [LATEST] 2025/06/07 - [v1.1.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.2)
+
+### NOTE
+
+1. 이제 프록시 서버를 사용할 수 있습니다.
+
+### FEATURE
+
+* `OPTION` | 프록시 설정 추가
+
+## 2025/06/06 - [v1.1.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.1)
 
 ### NOTE
 
