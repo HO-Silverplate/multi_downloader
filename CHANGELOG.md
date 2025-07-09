@@ -1,4 +1,10 @@
-## [LATEST] 2025/06/07 - [v1.1.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.2)
+## [LATEST] 2025/07/09 - [v1.1.4](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.4)
+
+### NOTE
+
+자잘한 오류를 수정하고 로그 처리를 개선했습니다.
+
+## 2025/07/03 - [v1.1.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.3)
 
 ### NOTE
 
