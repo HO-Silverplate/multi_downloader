@@ -1,4 +1,15 @@
-## [LATEST] 2025/07/09 - [v1.1.4](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.4)
+## [LATEST] 2025/07/15 - [v1.1.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.5)
+
+### NOTE
+
+스트림 종료 처리를 수정했습니다.
+
+### BUGFIX
+* `DASHBOARD` | 스트림 종료가 내부 변수에 기록되지 않는 문제
+* `APP` | 스트림이 오류 등으로 인해 정상적으로 종료되지 못할 시 트레이아이콘에 반영되지 않는 문제
+
+
+## 2025/07/09 - [v1.1.4](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.4)
 
 ### NOTE
 
