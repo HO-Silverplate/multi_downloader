@@ -1,4 +1,25 @@
-## [LATEST] 2025/07/15 - [v1.1.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.5)
+## [LATEST] 2025/07/21 - [v1.1.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.6)
+
+### NOTE
+
+* VOD 다운로더를 개선했습니다. 진행도 바가 다시 정신을 되찾았습니다!
+* FFmpeg가 버전 7.1.1부터 도입한 보안 변경사항에 대응을 마쳤습니다.
+* 시스템 트레이 아이콘이 의도대로 작동하지 않는 문제를 수정했습니다.
+* 설정 탭에서 프로그램을 종료할 경우 변경사항이 반영되지 않는 문제를 수정했습니다.
+
+### BUGFIX
+
+* `APP` | 시스템 트레이 아이콘을 눌러도 창이 표시되지 않는 문제
+* `APP` | 시스템 트레이 아이콘의 "종료"메뉴를 선택해도 프로그램이 종료되지 않는 문제
+* `VOD` | 최신 버전 FFmpeg에서 발생하는 "not in allowed_extensions" 오류
+* `VOD` | VOD를 다운로드한 후 임시 파일이 제거되지 않는 문제
+
+### FEATURE
+
+* `VOD` | VOD 다운로더 프로세스 변경 및 프로그레스바와의 동기화
+
+
+## 2025/07/15 - [v1.1.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.5)
 
 ### NOTE
 
