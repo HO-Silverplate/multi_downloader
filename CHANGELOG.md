@@ -1,4 +1,14 @@
-## [LATEST] 2025/07/21 - [v1.1.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.6)
+## [LATEST] 2025/07/23 - [v1.1.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.7)
+
+### NOTE
+
+* VOD 다운로더로 다운로드한 VOD가 정상적인 .mp4 파일로 인식되지 않는 문제를 수정했습니다. 
+
+### BUGFIX
+`VOD` | Concat 단계에서 mp4 타임스탬프가 정상적으로 처리되지 않는 문제 [#34](https://github.com/HO-Silverplate/multi_downloader/issues/34)
+
+
+## 2025/07/21 - [v1.1.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.6)
 
 ### NOTE
 
