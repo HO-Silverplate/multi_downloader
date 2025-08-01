@@ -1,11 +1,30 @@
-## [LATEST] 2025/07/23 - [v1.1.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.7)
+## [LATEST] 2025/08/01 - [v1.2.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.2.0)
 
 ### NOTE
 
-* VOD 다운로더로 다운로드한 VOD가 정상적인 .mp4 파일로 인식되지 않는 문제를 수정했습니다. 
+* 구독된 계정으로 로그인할 경우, 구독 플러스 방송을 녹화할 수 있습니다.
+* 대기 상태 방송 처리 로직을 개선했습니다.
 
 ### BUGFIX
-`VOD` | Concat 단계에서 mp4 타임스탬프가 정상적으로 처리되지 않는 문제 [#34](https://github.com/HO-Silverplate/multi_downloader/issues/34)
+
+* `DASHBOARD` | 대쉬보드 라벨 수정
+* `DOWNLOAD` | 스트림이 `complete` 상태가 아닐 때 녹화가 제대로 처리되지 않는 문제
+* `REMUX` | 리먹스시 CMD창이 표시되는 문제
+* `OPTION` | FFmpeg BtbN빌드의 버전을 잘못 인식하는 문제
+
+### FEATURE
+
+* `DOWNLOAD` | 구독 플러스 방송 대응 [#37](https://github.com/HO-Silverplate/multi_downloader/issues/37)
+
+## 2025/07/23 - [v1.1.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.7)
+
+### NOTE
+
+* VOD 다운로더로 다운로드한 VOD가 비디어 플레이어에 적합한 형식으로 Mux되도록 변경했습니다. 
+
+### BUGFIX
+
+* `VOD` | Concat 단계에서 mp4 타임스탬프가 의도대로 처리되지 않는 문제 [#34](https://github.com/HO-Silverplate/multi_downloader/issues/34)
 
 
 ## 2025/07/21 - [v1.1.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.1.6)
