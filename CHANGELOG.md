@@ -1,4 +1,14 @@
-## [LATEST] 2025/08/01 - [v1.2.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.2.0)
+## [LATEST] 2025/08/02 - [v1.2.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.2.1)
+
+### NOTE
+
+* 핫픽스: FFmpeg 깃 브랜치 빌드를 사용할 때 오류 발생
+
+### BUGFIX
+
+* `VOD` | `str.join` syntax error
+
+## 2025/08/01 - [v1.2.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.2.0)
 
 ### NOTE
 
