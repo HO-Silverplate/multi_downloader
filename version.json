@@ -1,10 +1,10 @@
 {
-    "version": "1.2.1.0",
+    "version": "1.3.0.7",
     "urgent": {
         "is_urgent": true,
         "target": [
-            "1.2.0"
+            "1.2.1"
         ]
     },
-    "new_updater": false
+    "new_updater": true
 }

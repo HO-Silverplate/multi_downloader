@@ -1,4 +1,27 @@
-## [LATEST] 2025/08/02 - [v1.2.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.2.1)
+## [LATEST] 2025/08/04 - [v1.3.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.0)
+
+### NOTE 
+
+* 비밀번호가 설정된 방송을 녹화할 수 있습니다.
+  * 비밀번호 입력창이 거슬린다면 고급 설정에서 숨길 수 있어요.
+  * 비밀번호 입력창을 숨기면 비밀번호 설정된 방송은 녹화를 시도하지 않습니다.
+* 방송 상태 표시등을 클릭하여 방송 상태를 즉시 갱신할 수 있습니다. 녹화 시작 조건을 만족한다면 녹화도 시작됩니다.
+* VOD를 다운로드할 때, 중간에 품질이 변경될 경우 파일을 분리하여 저장합니다.
+* VOD를 다운로드할 때, 같은 VOD의 다른 품질이 대기열에 추가되지 않는 문제를 수정하였습니다.
+* 업데이트를 실행할 때 오류가 발생하면 기존 실행 파일은 제거되지 않도록 변경하였습니다.
+
+### BUGFIX
+
+* `VOD` | 품질 변경 시 비디오 오염 문제 발생 [#35](https://github.com/HO-Silverplate/multi_downloader/issues/35)
+* `VOD` | 다품질 비디오 대기열 추가 무시됨 
+* `UPDATER` | 파일 대체 실패 시 이전 버전 삭제 방지 [#38](https://github.com/HO-Silverplate/multi_downloader/issues/38)
+
+### FEATURE
+
+* `DASHBOARD` | 비밀번호 Input 추가 [#30](https://github.com/HO-Silverplate/multi_downloader/issues/30)
+* `DASHBOARD` | 수동 새로고침 추가 [#36](https://github.com/HO-Silverplate/multi_downloader/issues/36)
+
+## 2025/08/02 - [v1.2.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.2.1)
 
 ### NOTE
 
