@@ -1,4 +1,14 @@
-## [LATEST] 2025/08/04 - [v1.3.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.0)
+## [LATEST] 2025/08/04 - [v1.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.1)
+
+### NOTE
+
+* 핫픽스: 프록시 사용 시 시네티 녹화가 불가한 문제
+
+### BUGFIX
+
+* `DOWNLOAD` | 롤백: StreamInfo API 패러미터에서 프록시 제거 
+
+## 2025/08/04 - [v1.3.0](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.0)
 
 ### NOTE 
 
