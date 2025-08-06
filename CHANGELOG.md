@@ -1,4 +1,17 @@
-## [LATEST] 2025/08/04 - [v1.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.1)
+## [LATEST] 2025/08/07 - [v1.3.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.2)
+
+### NOTE
+
+* VPN을 사용할 시 구독 플러스 방송을 녹화할 수 없는 문제를 수정했습니다.
+* 구독 플러스 방송 또는 연령제한 방송이 종료된 이후 상태표시등이 변화하지 않는 문제를 수정했습니다.
+
+### BUGFIX
+
+* `DOWNLOAD` | VPN 사용시 구독 플러스 방송의 CDN 오인식 문제
+* `DASHBOARD` | 방송 종료 이벤트 조정
+* `UPDATER` | 파일 제거 및 대체 개선
+
+## 2025/08/04 - [v1.3.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.1)
 
 ### NOTE
 
