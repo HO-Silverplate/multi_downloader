@@ -1,4 +1,23 @@
-## [LATEST] 2025/08/07 - [v1.3.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.2)
+## [LATEST] 2025/08/17 - [v1.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.3)
+
+### NOTE
+
+* 비밀번호 설정된 방송이 종료되어도 표시등이 주황색으로 표시되는 오류를 수정했습니다.
+* 방송 여부 체크 로직을 개선했습니다.
+* VPN 사용 시 구독 플러스 방송을 정상적으로 녹화하지 못하는 문제를 수정했습니다.
+* "나중에 보기"로 등록한 VOD의 URL을 불러오려 시도할 경우 충돌하는 문제를 수정했습니다.
+* 녹화 파일을 정리하는 중 녹화를 다시 시작할 경우 정리가 끝날 때 녹화 상태 라벨이 사라지는 문제를 수정했습니다.
+* RotatingFileHandler가 정상적으로 작동하지 않는 문제를 수정했습니다.
+
+### BUGFIX
+
+* `DASHBOARD` | 비밀번호 설정된 방송의 종료 이벤트를 무시하는 문제
+* `DASHBOARD` | 일반 VPN 사용 시 CDN 파싱을 건너뛰는 문제
+* `DASHBOARD` | REMUX 종료 이벤트가 다른 상태를 덮어쓰는 문제
+* `APP` | 멀티쓰레드 환경에서 RotatingFileHandler가 일관성을 잃는 문제
+* `VOD` | VOD를 "나중에 보기"로 등록할 경우 Path Parameter로 추가되어 파싱에 실패하는 문제
+
+## 2025/08/07 - [v1.3.2](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.2)
 
 ### NOTE
 
