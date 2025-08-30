@@ -1,4 +1,16 @@
-## [LATEST] 2025/08/17 - [v1.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.3)
+## [LATEST] 2025/08/31 - [v1.3.4](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.4)
+
+### NOTE
+
+* 스트리머 목록 설정의 예외처리를 개선했습니다.
+* 설정 파일 안정성을 개선했습니다.
+
+### BUGFIX
+
+* `OPTION` | 예외처리 개선
+* `CONFIG` | 기본값 처리 확장
+
+## 2025/08/17 - [v1.3.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.3)
 
 ### NOTE
 
