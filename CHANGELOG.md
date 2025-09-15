@@ -1,3 +1,15 @@
+## [LATEST] 2025/09/15 - [v1.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.5)
+
+### NOTE
+
+* VOD URL입력 실패 시 표시를 추가했습니다.
+* VOD 다운로더로 다운로드한 VOD가 자동으로 REMUX되지 않는 문제를 수정했습니다.
+
+### BUGFIX
+
+* `VOD` | 예외처리 개선
+* `VOD` | +faststart 플래그 적용
+
 ## [LATEST] 2025/08/31 - [v1.3.4](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.4)
 
 ### NOTE
