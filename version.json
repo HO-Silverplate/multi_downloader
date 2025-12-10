@@ -1,8 +1,10 @@
 {
-    "version": "1.3.5.0",
+    "version": "1.3.6.0",
     "urgent": {
-        "is_urgent": false,
-        "target": []
+        "is_urgent": true,
+        "target": [
+            "1.3.5"
+        ]
     },
     "new_updater": false
 }

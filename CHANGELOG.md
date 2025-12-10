@@ -1,8 +1,24 @@
-## [LATEST] 2025/09/15 - [v1.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.5)
+## [LATEST] 2025/12/11 - [v1.3.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.6)
 
 ### NOTE
 
-* VOD URL입력 실패 시 표시를 추가했습니다.
+* `.ts` 형식으로 출력할 경우 중복방지 로직이 작동하지 않는 버그를 수정했습니다.
+* 숲의 CDN 변경으로 인해 VPN/프록시 미사용시 녹화가 시작되지 않는 버그를 수정했습니다.
+
+### BUGFIX
+
+* `DOWNLOAD` | LG CDN 반영
+* `DOWNLOAD` | `.ts` 형식으로 출력 시 제목 변경 반영
+
+### CHANGE
+
+* `APP` | 업데이트 버전 탐색 간략화
+
+## 2025/09/15 - [v1.3.5](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.5)
+
+### NOTE
+
+* VOD URL 입력 실패 시 표시를 추가했습니다.
 * VOD 다운로더로 다운로드한 VOD가 자동으로 REMUX되지 않는 문제를 수정했습니다.
 
 ### BUGFIX
