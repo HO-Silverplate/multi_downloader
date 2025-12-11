@@ -1,4 +1,18 @@
-## [LATEST] 2025/12/11 - [v1.3.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.6)
+## [LATEST] 2025/12/11 - [v1.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.7)
+
+### NOTE
+
+* VOD가 정상적으로 다운로드되지 않는 현상을 수정했습니다.
+* 숲의 VOD 검색 변수 변경사항을 반영하여 수정하였습니다.
+* 방송상태를 수동으로 체크할 때, 자동 체크와 겹칠 경우 프로세스가 여러 개 시작되는 버그를 수정했습니다.
+
+### BUGFIX
+
+* `DASHBOARD` | 수동체크시 프로세스가 여러 개 시작되는 오류
+* `VOD` | VOD가 다운로드되지 않는 오류 [#41](https://github.com/HO-Silverplate/multi_downloader/issues/41)
+* `VOD` | VOD가 정상적으로 검색되지 않는 오류 [#42](https://github.com/HO-Silverplate/multi_downloader/issues/42)
+
+## 2025/12/11 - [v1.3.6](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.6)
 
 ### NOTE
 
