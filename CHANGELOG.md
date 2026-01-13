@@ -1,4 +1,16 @@
-## [LATEST] 2025/12/11 - [v1.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.7)
+## [LATEST] 2026/1/14 - [v1.3.8](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.8)
+
+### NOTE
+
+* URL로 VOD를 가져올 때 프로그램이 비정상 종료되는 문제를 수정했습니다.
+* VOD 다운로더가 중단되지 않는 문제를 수정했습니다.
+
+### BUGFIX
+
+* `VOD` | VOD를 가져올 때 크래시가 발생하는 오류
+* `VOD` | 진행 중인 VOD 다운로드가 중단되지 않는 오류
+
+## 2025/12/11 - [v1.3.7](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.7)
 
 ### NOTE
 
