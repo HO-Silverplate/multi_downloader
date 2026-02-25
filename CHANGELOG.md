@@ -1,4 +1,15 @@
-## [LATEST] 2026/1/14 - [v1.3.8](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.8)
+## [LATEST] 2026/2/25 - [v1.3.9](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.9)
+
+### NOTE
+
+* 스트리머를 삭제한 후 대시보드로의 전환이 비정상적으로 오래 걸리는 문제를 수정했습니다.
+
+
+### BUGFIX
+
+* `APP` | 스트리머 삭제 후 대시보드로의 전환이 지나치게 오래 걸리는 문제
+
+## 2026/1/14 - [v1.3.8](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.8)
 
 ### NOTE
 
