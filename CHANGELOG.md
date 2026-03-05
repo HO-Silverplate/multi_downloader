@@ -1,9 +1,18 @@
-## [LATEST] 2026/2/25 - [v1.3.9](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.9)
+## [LATEST] 2026/3/05 - [v1.3.10](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.10)
+
+### NOTE
+
+* URL로 VOD를 불러오면 프로그램이 비정상 종료되는 문제를 수정했습니다.
+
+### BUGFIX
+
+* `VOD` | VOD를 가져올 때 크래시가 발생하는 오류
+
+## 2026/2/25 - [v1.3.9](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.9)
 
 ### NOTE
 
 * 스트리머를 삭제한 후 대시보드로의 전환이 비정상적으로 오래 걸리는 문제를 수정했습니다.
-
 
 ### BUGFIX
 
