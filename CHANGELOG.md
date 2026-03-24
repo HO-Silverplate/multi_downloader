@@ -1,4 +1,10 @@
-## [LATEST] 2026/3/05 - [v1.3.10](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.10)
+## [LATEST] 2026/3/24 - [v1.3.11](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.11)
+
+### NOTE
+
+* 2026년 3월 24일자 점검의 도메인 변경을 반영하였습니다.
+
+## 2026/3/05 - [v1.3.10](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.10)
 
 ### NOTE
 
