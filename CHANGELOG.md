@@ -1,4 +1,15 @@
-## [LATEST] 2026/3/24 - [v1.3.11](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.11.1)
+## [LATEST] 2026/3/26 - [v1.3.12](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.12)
+
+### NOTE
+
+* 도메인 변경 이후 로그인/구글 플러스 녹화 등 API 변경사항으로 인한 문제들을 수정했습니다.
+
+### BUGFIX
+
+* `CONFIG` | 숲 로그인에 성공했음에도 비로그인 상태로 인식되던 문제
+* `DOWNLOAD` | 구독 플러스 녹화에 사용되는 인증API 도메인 변경이 처리되지 않은 문제
+
+## 2026/3/24 - [v1.3.11](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.11.1)
 
 ### NOTE
 
