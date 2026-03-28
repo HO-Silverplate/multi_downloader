@@ -1,4 +1,16 @@
-## [LATEST] 2026/3/26 - [v1.3.12](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.12)
+## [LATEST] 2026/3/29 - [v1.3.13](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.13)
+
+### NOTE
+
+* 도메인 변경 이후 방송 URL로 스트리머를 추가할 수 없던 문제를 수정했습니다.
+* 도메인 변경 이후 브라우저 쿠키를 이용한 로그인이 불가하던 문제를 수정했습니다.
+
+### BUGFIX
+
+* `CONFIG` | URL 검사 정규식 변경
+* `AUTH` | 브라우저 쿠키 추출 시 구 도메인과 신 도메인 모두 사용하도록 변경
+
+## 2026/3/26 - [v1.3.12](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.12)
 
 ### NOTE
 
