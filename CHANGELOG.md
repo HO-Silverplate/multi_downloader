@@ -1,4 +1,15 @@
-## [LATEST] 2026/3/29 - [v1.3.13](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.13)
+## [LATEST] 2026/5/21 - [v1.3.14](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.14)
+
+### NOTE
+
+* VOD 제목에 `\`와 `'`가 포함될 경우 다운로드되지 않는 문제를 수정했습니다.
+* 다운로드된 VOD가 완료로 표시되지 않는 문제를 수정했습니다.
+
+### BUGFIX
+
+* `VOD` | VOD 제목 특수문자 파싱 정규식 변경
+
+## 2026/3/29 - [v1.3.13](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.13)
 
 ### NOTE
 
