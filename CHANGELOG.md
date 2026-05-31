@@ -1,4 +1,16 @@
-## [LATEST] 2026/5/21 - [v1.3.14](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.14)
+## [LATEST] 2026/5/31 - [v1.3.15](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.15)
+
+### NOTE
+
+* 캐치/클립과 같이 하나의 파일로 이루어진 VOD를 다운로드할 때 완료로 표시되지 않아 대기열을 활용할 수 없는 문제를 수정했습니다. ([#47](https://github.com/HO-Silverplate/multi_downloader/issues/47#issuecomment-4569045711))
+* 파비콘이 추가되었습니다!
+* 고급 설정에서 로그 파일을 여는 버튼을 추가했습니다.
+
+### BUGFIX
+
+* `VOD` | 단일 파일 VOD가 다운로드 완료 시 완료로 표시되지 않는 문제 ([#47](https://github.com/HO-Silverplate/multi_downloader/issues/47#issuecomment-4569045711))
+
+## 2026/5/21 - [v1.3.14](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.14)
 
 ### NOTE
 

@@ -1,6 +1,5 @@
 # multi_downloader 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)
+![FAVICON](favicon.png)
 
 ![Downloads](https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/total?label=Downloads&link=https://github.com/HO-Silverplate/multi_downloader/releases)
 ![Downloads(latest)](https://img.shields.io/github/downloads/HO-Silverplate/multi_downloader/latest/total?label=latest&link=https://github.com/HO-Silverplate/multi_downloader/releases/latest)
@@ -10,7 +9,7 @@
 
 
 **한국 IP로 녹화를 시도할 경우 최대 540p로만 녹화가 가능합니다.**
-**VPN 서비스를 이용하거나 해외 IP의 경우 '시네티' 카테고리로 변경된 스트림은 녹화를 시작할 수 없습니다.**
+**VPN 서비스를 이용하거나 해외 IP를 사용할 경우 '시네티' 카테고리로 변경된 스트림은 녹화를 시작할 수 없습니다.**
 
 ---
 
