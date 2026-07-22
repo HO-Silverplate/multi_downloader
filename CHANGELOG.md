@@ -1,4 +1,30 @@
-## [LATEST] 2026/5/31 - [v1.3.15](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.15)
+## [LATEST] 2026/7/22 - [v1.3.16](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.16)
+
+### NOTE
+
+* 드디어 다국어 지원이 추가되었습니다! `설정/고급 설정` 탭에서 한국어/English/简体中文을 선택할 수 있습니다. ([#47](https://github.com/HO-Silverplate/multi_downloader/issues/47#issuecomment-5011068793), [#20](https://github.com/HO-Silverplate/multi_downloader/issues/20#issue-2730601980)) 
+* 스트리머의 VOD를 한꺼번에 다운로드할 수 있는 `일괄` 탭이 추가되었습니다. 스트리머의 ID나 방송국 주소로 여러 개의 클립, 다시보기, 캐치를 다운로드 할 수 있습니다. ([#47](https://github.com/HO-Silverplate/multi_downloader/issues/47))
+* 이제 구글 플러스 전용 VOD도 다운로드할 수 있습니다.(로그인 필요) ([#48](https://github.com/HO-Silverplate/multi_downloader/issues/48))
+* 이제 VOD를 다운로드할 때 일정 구간만 지정하여 다운로드할 수 있습니다! 세그먼트 단위 다운로드이기 때문에 지정된 범위보다 최대 6초 정도 길거나 짧을 수 있습니다.
+* 중간에 화질/프레임레이트가 변경되어 깨지던 VOD는 이제 여러 개의 파일로 나뉘어 다운로드됩니다. ([#34](https://github.com/HO-Silverplate/multi_downloader/issues/34))
+* 손상된 세그먼트가 포함된 VOD의 경우 손상된 세그먼트는 건너뛰도록 하여 이전엔 실패하던 VOD도 다운로드할 수 있게 되었습니다.
+* 설정 파일 손상이 감지되면 가장 최근의 백업 파일로 교체합니다. 백업 파일이 없다면 기존과 같이 기본값으로 초기화됩니다.
+* 파일 설정 탭의 "설정 가져오기" 버튼을 통해 외부 설정 파일(JSON)을 가져올 수 있습니다.
+
+### FEATURE
+
+* `APP` | 다국어 지원(한국어/English/简体中文)
+* `VOD` | 스트리머 단위 VOD 일괄 다운로드 기능 추가
+* `CONFIG` | 컨픽 가져오기 기능 추가
+* `CONFIG` | 컨픽 쓰기 시 순환 백업(최근 5개) 생성
+
+### BUGFIX
+
+* `VOD` | 일부 VOD에서 챕터 간 해상도/프레임레이트 변경이 감지되지 않아 잘못 이어붙여지던 문제
+* `VOD` | 손상된 세그먼트가 존재할 경우 다운로드가 항상 실패하던 문제
+* `CONFIG` | 설정 파일 읽기 실패로 인한 컨픽 초기화 개선
+
+## 2026/5/31 - [v1.3.15](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.15)
 
 ### NOTE
 
