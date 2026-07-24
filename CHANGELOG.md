@@ -1,4 +1,16 @@
-## [LATEST] 2026/7/22 - [v1.3.16](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.16)
+## [LATEST] 2026/7/24 - [v1.3.17](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.17)
+
+### NOTE
+
+* 스트리머 목록에서 스트리머를 제거해도 설정에 반영되지 않던 문제를 수정했습니다. [#51](https://github.com/HO-Silverplate/multi_downloader/issues/51)
+* 다운로드한 VOD가 원본보다 살짝 길어지던 문제를 수정했습니다. [#49](https://github.com/HO-Silverplate/multi_downloader/issues/49) 
+
+### BUGFIX 
+
+* `CONFIG` | 스트리머 컨픽이 덮어씌워지는 과정에서 제거된 키가 이전 값으로 덮어씌워지던 문제
+* `VOD` | VOD 다운로드 시 반올림 오차 누적으로 인해 전체 Duration과 평균 프레임레이트가 변하던 문제
+
+## 2026/7/22 - [v1.3.16](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.16)
 
 ### NOTE
 

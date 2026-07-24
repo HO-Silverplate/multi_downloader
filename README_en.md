@@ -6,7 +6,7 @@
 ![Github Release](https://img.shields.io/github/v/release/HO-silverplate/multi_downloader?link=https://github.com/HO-Silverplate/multi_downloader/releases/latest)
 
 [>> Changelog <<](https://github.com/HO-Silverplate/multi_downloader/blob/main/CHANGELOG.md)
-
+[한국어](README.md)
 
 **Recording from S.Korean IP is restricted to 540p or lower.**
 **When using VPN/Non-KR IP, Recording can fail on Cinety categories due to SOOP copyright policies.**

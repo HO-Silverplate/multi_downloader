@@ -6,6 +6,7 @@
 ![Github Release](https://img.shields.io/github/v/release/HO-silverplate/multi_downloader?link=https://github.com/HO-Silverplate/multi_downloader/releases/latest)
 
 [>> 변경내역 보러가기 <<](https://github.com/HO-Silverplate/multi_downloader/blob/main/CHANGELOG.md)
+[ENGLISH](README_en.md)
 
 
 **한국 IP로 녹화를 시도할 경우 최대 540p로만 녹화가 가능합니다.**
