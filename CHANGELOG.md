@@ -1,9 +1,20 @@
-## [LATEST] 2026/7/24 - [v1.3.17](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.17)
+## [LATEST] 2026/7/25 - [v1.3.18.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.18.1)
 
 ### NOTE
 
-* 스트리머 목록에서 스트리머를 제거해도 설정에 반영되지 않던 문제를 수정했습니다. [#51](https://github.com/HO-Silverplate/multi_downloader/issues/51)
-* 다운로드한 VOD가 원본보다 살짝 길어지던 문제를 수정했습니다. [#49](https://github.com/HO-Silverplate/multi_downloader/issues/49) 
+* 구독 플러스 전용 VOD를 다운로드할 때 인증이 만료되어 다운로드가 정상종료되지 않던 문제를 고쳤습니다. ([#52](https://github.com/HO-Silverplate/multi_downloader/issues/52))
+* 이제 권한이 없는 VOD(구독 플러스 전용 VOD 등)의 URL을 입력할 경우 별도 UI를 표출합니다.
+
+### BUGFIX
+
+* `VOD` | 구독 플러스 VOD AUTH정보가 갱신되지 않던 문제
+
+## 2026/7/24 - [v1.3.17](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.17)
+
+### NOTE
+
+* 스트리머 목록에서 스트리머를 제거해도 설정에 반영되지 않던 문제를 수정했습니다. ([#51](https://github.com/HO-Silverplate/multi_downloader/issues/51))
+* 다운로드한 VOD가 원본보다 살짝 길어지던 문제를 수정했습니다. ([#49](https://github.com/HO-Silverplate/multi_downloader/issues/49)) 
 
 ### BUGFIX 
 
