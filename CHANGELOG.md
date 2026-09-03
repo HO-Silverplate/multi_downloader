@@ -1,4 +1,26 @@
-## [LATEST] 2026/7/25 - [v1.3.18.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.18.1)
+## [LATEST] 2026/9/4 - [v1.3.19](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.19)
+
+### NOTE
+
+* 이제 다운로드 구간 선택 창에서 저장될 제목을 변경할 수 있습니다.
+* 화질 선택을 다운로드 구간 선택 창으로 옮겨 검색을 통해서도 원하는 화질의 VOD를 다운받을 수 있습니다.
+* VOD 검색/일괄 다운로드 탭에서, 구독플러스 권한이 없는 계정으로 구독플러스 전용 VOD 다운로드를 요청할 경우 비정상적으로 종료되던 문제를 고쳤습니다.
+
+### FEATURE
+
+* `VOD` | 다운로드 구간 선택 창에서 제목 수정 가능
+
+### BUGFIX
+
+* `VOD` | 검색/일괄 탭에서 권한 없는 VOD의 다운로드를 시도할 경우 프로그램이 강제 종료되던 문제
+* `VOD` | 일괄 탭의 조회 결과에 연령 제한 등으로 썸네일이 없는 VOD가 포함될 경우 조회가 실패하던 문제
+* `APP` | 11pt 이하의 작은 글자에서 일부 한글 자모의 가독성이 떨어지던 문제
+
+### CHANGE
+
+* `VOD` | 화질 선택을 다운로드 구간 선택 창으로 이동
+
+## 2026/7/25 - [v1.3.18.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.18.1)
 
 ### NOTE
 
