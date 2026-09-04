@@ -1,4 +1,4 @@
-## [LATEST] 2026/9/4 - [v1.3.19](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.19)
+## [LATEST] 2026/9/4 - [v1.3.19](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.19.3)
 
 ### NOTE
 
