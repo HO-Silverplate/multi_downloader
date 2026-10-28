@@ -1,4 +1,19 @@
-## [LATEST] 2026/9/4 - [v1.3.19](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.19.3)
+# CHANGELOG
+
+## [LATEST] 2026/10/27 - [v1.3.20.1](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.20.1)
+
+### NOTE
+
+* 일부 환경에서 생방송 녹화 시 파일이 나눠지는 현상을 개선했습니다.
+* 로그인/로그아웃 시 VOD 정보가 업데이트되지 않는 현상을 고쳤습니다.
+
+### BUGFIX
+
+* `DOWNLOAD` | 일부 API 요청이 실패할 경우 로그 없이 세그먼트 라이터가 종료되던 문제
+* `DOWNLOAD` | 세그먼트 타임아웃으로 인해 세그먼트 요청 재시도 전에 다운로더가 종료되던 문제
+* `DOWNLOAD` | 쿠키 인증이 특정 상황에서 갱신되지 않던 문제
+
+## 2026/9/4 - [v1.3.19.3](https://github.com/HO-Silverplate/multi_downloader/releases/tag/v1.3.19.3)
 
 ### NOTE
 
